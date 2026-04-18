@@ -1,0 +1,775 @@
+================================================================================
+  GNoME × MICROGRAVITY FILTER — TOP CANDIDATES
+  Materials most likely to benefit from space manufacturing
+================================================================================
+
+  Dataset: 554,027 multi-element materials analyzed
+  Showing top 50 by composite microgravity advantage score
+
+────────────────────────────────────────────────────────────────────────────────
+  SCORE DISTRIBUTION
+────────────────────────────────────────────────────────────────────────────────
+  Score > 80:  706 materials
+  Score > 60:  6,453 materials
+  Score > 40:  40,219 materials
+
+────────────────────────────────────────────────────────────────────────────────
+  TARGET SECTORS (in top candidates)
+────────────────────────────────────────────────────────────────────────────────
+  optical        : 30 materials
+  semiconductor  : 29 materials
+  battery        : 29 materials
+  quantum        : 23 materials
+  defense        : 23 materials
+  energy         : 20 materials
+  superalloy     : 17 materials
+
+────────────────────────────────────────────────────────────────────────────────
+  TOP CANDIDATES
+────────────────────────────────────────────────────────────────────────────────
+
+  #  1  LiTa2Nb2Re6Si6W
+        Material ID:     338e00b069
+        OVERALL SCORE:    100.0 / 100
+        ├─ Density contrast:  26.8
+        ├─ Crystal quality:   2.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  19.5
+        └─ Novelty:           3.0
+        Crystal system:  monoclinic
+        Space group:     Cm
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | W: 19.25 g/cm³ | Re: 21.02 g/cm³
+        WHY MICROGRAVITY: Density ratio 39.4x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  #  2  LiTa3Nb2Re5Si6W
+        Material ID:     45ea93117f
+        OVERALL SCORE:    100.0 / 100
+        ├─ Density contrast:  26.8
+        ├─ Crystal quality:   2.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  19.5
+        └─ Novelty:           3.0
+        Crystal system:  triclinic
+        Space group:     P1
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | W: 19.25 g/cm³ | Re: 21.02 g/cm³
+        WHY MICROGRAVITY: Density ratio 39.4x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  #  3  LiNb3Sb4(IrRh)2
+        Material ID:     310f4d13a3
+        OVERALL SCORE:    95.8 / 100
+        ├─ Density contrast:  28.3
+        ├─ Crystal quality:   5.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  10.5
+        └─ Novelty:           2.5
+        Crystal system:  orthorhombic
+        Space group:     Fmm2
+        Bandgap:         0.504 eV
+        Target sectors:  quantum, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Sb: 6.68 g/cm³ | Nb: 8.57 g/cm³ | Rh: 12.41 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  #  4  Li2Dy3GeP11Ir16Rh3
+        Material ID:     5c0833760b
+        OVERALL SCORE:    95.8 / 100
+        ├─ Density contrast:  28.3
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  12.0
+        └─ Novelty:           3.0
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Target sectors:  semiconductor, battery, optical, defense
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ge: 5.32 g/cm³ | Dy: 8.55 g/cm³ | Rh: 12.41 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  #  5  Li2Dy5GaMoP11Ir16
+        Material ID:     44f2d4078b
+        OVERALL SCORE:    95.6 / 100
+        ├─ Density contrast:  28.2
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  12.0
+        └─ Novelty:           3.0
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Target sectors:  semiconductor, battery, optical, defense
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ga: 5.91 g/cm³ | Dy: 8.55 g/cm³ | Mo: 10.28 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  #  6  LiTaNb4(ReSi)6
+        Material ID:     3f4836d6a3
+        OVERALL SCORE:    95.0 / 100
+        ├─ Density contrast:  26.8
+        ├─ Crystal quality:   2.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  16.5
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Cm
+        Bandgap:         0.007 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | Re: 21.02 g/cm³
+        WHY MICROGRAVITY: Density ratio 39.4x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  #  7  LiTa3Nb2(ReSi)6
+        Material ID:     a021db7cdc
+        OVERALL SCORE:    95.0 / 100
+        ├─ Density contrast:  26.8
+        ├─ Crystal quality:   2.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  16.5
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Cm
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | Re: 21.02 g/cm³
+        WHY MICROGRAVITY: Density ratio 39.4x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  #  8  LiTa4Nb(ReSi)6
+        Material ID:     cca06ff104
+        OVERALL SCORE:    95.0 / 100
+        ├─ Density contrast:  26.8
+        ├─ Crystal quality:   2.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  16.5
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Cm
+        Bandgap:         0.025 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | Re: 21.02 g/cm³
+        WHY MICROGRAVITY: Density ratio 39.4x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  #  9  LiNb3Sb4Ir3Rh
+        Material ID:     8265271a97
+        OVERALL SCORE:    94.9 / 100
+        ├─ Density contrast:  28.3
+        ├─ Crystal quality:   5.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  10.5
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Cm
+        Bandgap:         0.393 eV
+        Target sectors:  quantum, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Sb: 6.68 g/cm³ | Nb: 8.57 g/cm³ | Rh: 12.41 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 10  LiNb3Sb4IrRh3
+        Material ID:     bf2f49ec5a
+        OVERALL SCORE:    94.9 / 100
+        ├─ Density contrast:  28.3
+        ├─ Crystal quality:   5.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  10.5
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Cm
+        Bandgap:         0.378 eV
+        Target sectors:  quantum, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Sb: 6.68 g/cm³ | Nb: 8.57 g/cm³ | Rh: 12.41 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 11  Li3Dy5Ge6(P3Ir8)2
+        Material ID:     999fd79b43
+        OVERALL SCORE:    94.1 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   5.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  hexagonal
+        Space group:     P-6
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ge: 5.32 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 12  Li3Dy5As3P9Ir16
+        Material ID:     162b0fad54
+        OVERALL SCORE:    94.1 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   5.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  hexagonal
+        Space group:     P-62m
+        Bandgap:         0.001 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | As: 5.73 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 13  Li3Ti(NbIr3)2
+        Material ID:     ecce22c5a8
+        OVERALL SCORE:    93.7 / 100
+        ├─ Density contrast:  28.7
+        ├─ Crystal quality:   0.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  15.0
+        └─ Novelty:           2.0
+        Crystal system:  orthorhombic
+        Space group:     Pmmn
+        Target sectors:  battery, quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Ti: 4.51 g/cm³ | Nb: 8.57 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  # 14  Li3La2Ge2P10Ir19
+        Material ID:     637ef434af
+        OVERALL SCORE:    93.6 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  10.5
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Bandgap:         0.000 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ge: 5.32 g/cm³ | La: 6.15 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 15  Li2GeAsIr2
+        Material ID:     702f1428d7
+        OVERALL SCORE:    93.2 / 100
+        ├─ Density contrast:  28.7
+        ├─ Crystal quality:   5.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.0
+        Crystal system:  tetragonal
+        Space group:     P4mm
+        Bandgap:         0.018 eV
+        Target sectors:  semiconductor, quantum, optical
+        Element densities: Li: 0.53 g/cm³ | Ge: 5.32 g/cm³ | As: 5.73 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 16  LiNb4Re6Si6W
+        Material ID:     9ca318cd6c
+        OVERALL SCORE:    93.2 / 100
+        ├─ Density contrast:  27.0
+        ├─ Crystal quality:   2.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  15.0
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Cm
+        Bandgap:         0.006 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Nb: 8.57 g/cm³ | W: 19.25 g/cm³ | Re: 21.02 g/cm³
+        WHY MICROGRAVITY: Density ratio 39.4x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  # 17  Li2GePIr2
+        Material ID:     43bc14bc25
+        OVERALL SCORE:    92.7 / 100
+        ├─ Density contrast:  28.9
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.0
+        Crystal system:  orthorhombic
+        Space group:     Pmc2_1
+        Bandgap:         0.019 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ge: 5.32 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 18  Li2AsPIr2
+        Material ID:     0084b460ae
+        OVERALL SCORE:    92.7 / 100
+        ├─ Density contrast:  28.9
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.0
+        Crystal system:  orthorhombic
+        Space group:     Pmc2_1
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | As: 5.73 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 19  Li2Ni3Mo3P7Ir6
+        Material ID:     1a4a25efda
+        OVERALL SCORE:    92.6 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   3.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  10.5
+        └─ Novelty:           2.5
+        Crystal system:  hexagonal
+        Space group:     P-6
+        Target sectors:  battery, superalloy, defense
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ni: 8.91 g/cm³ | Mo: 10.28 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 20  LiSc2As2PIr3
+        Material ID:     6c43120476
+        OVERALL SCORE:    92.4 / 100
+        ├─ Density contrast:  28.6
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  orthorhombic
+        Space group:     Amm2
+        Bandgap:         0.002 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Sc: 2.99 g/cm³ | As: 5.73 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 21  NaLiH12(IrPb)2
+        Material ID:     137f4f1070
+        OVERALL SCORE:    92.3 / 100
+        ├─ Density contrast:  29.0
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  tetragonal
+        Space group:     P-42m
+        Bandgap:         1.708 eV
+        Target sectors:  battery, defense, energy
+        Element densities: H: 0.00 g/cm³ | Li: 0.53 g/cm³ | Na: 0.97 g/cm³ | Pb: 11.34 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 22  Li4ErGe3P9Ir19
+        Material ID:     b57c81fe16
+        OVERALL SCORE:    92.3 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  orthorhombic
+        Space group:     Amm2
+        Bandgap:         0.005 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ge: 5.32 g/cm³ | Er: 9.07 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 23  Li3Dy5AsP11Ir16
+        Material ID:     05eec12606
+        OVERALL SCORE:    92.2 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  orthorhombic
+        Space group:     Amm2
+        Bandgap:         0.000 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | As: 5.73 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 24  Li2Dy5As2P10Ir17
+        Material ID:     6c91cae1bf
+        OVERALL SCORE:    92.2 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  orthorhombic
+        Space group:     Amm2
+        Bandgap:         0.007 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | As: 5.73 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 25  Li3Dy5As2(P5Ir8)2
+        Material ID:     79c6b07495
+        OVERALL SCORE:    92.2 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  orthorhombic
+        Space group:     Amm2
+        Bandgap:         0.002 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | As: 5.73 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 26  LiDy5AsP11Ir18
+        Material ID:     f3279259d4
+        OVERALL SCORE:    92.2 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  orthorhombic
+        Space group:     Amm2
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | As: 5.73 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 27  Li3Dy5ZnP11Ir16
+        Material ID:     4a6f7e88d6
+        OVERALL SCORE:    92.2 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  orthorhombic
+        Space group:     Amm2
+        Bandgap:         0.006 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Zn: 7.13 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 28  LiNb5Re5Si6Mo
+        Material ID:     551a3034f7
+        OVERALL SCORE:    92.0 / 100
+        ├─ Density contrast:  26.5
+        ├─ Crystal quality:   2.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  15.0
+        └─ Novelty:           2.5
+        Crystal system:  triclinic
+        Space group:     P1
+        Bandgap:         0.001 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Nb: 8.57 g/cm³ | Mo: 10.28 g/cm³ | Re: 21.02 g/cm³
+        WHY MICROGRAVITY: Density ratio 39.4x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  # 29  LiTbYGa(SiIr2)2
+        Material ID:     5f37e25bee
+        OVERALL SCORE:    92.0 / 100
+        ├─ Density contrast:  28.2
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           3.0
+        Crystal system:  orthorhombic
+        Space group:     Pmm2
+        Target sectors:  semiconductor, quantum, optical
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Y: 4.47 g/cm³ | Ga: 5.91 g/cm³ | Tb: 8.23 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 30  Li3Nd2Dy3Ge2(P5Ir8)2
+        Material ID:     680413cfc7
+        OVERALL SCORE:    92.0 / 100
+        ├─ Density contrast:  28.2
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           3.0
+        Crystal system:  orthorhombic
+        Space group:     Amm2
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ge: 5.32 g/cm³ | Nd: 7.01 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 31  LiNdErGa(SiIr2)2
+        Material ID:     f0c587a80f
+        OVERALL SCORE:    91.9 / 100
+        ├─ Density contrast:  28.2
+        ├─ Crystal quality:   4.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           3.0
+        Crystal system:  orthorhombic
+        Space group:     Pmm2
+        Target sectors:  semiconductor, quantum, optical
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | Ga: 5.91 g/cm³ | Nd: 7.01 g/cm³ | Er: 9.07 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 32  Li4GeP3Ir4
+        Material ID:     f8a1a73e49
+        OVERALL SCORE:    91.8 / 100
+        ├─ Density contrast:  28.9
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.0
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Bandgap:         0.002 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ge: 5.32 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 33  Li2SiNi9(P2W)3
+        Material ID:     a0f264434a
+        OVERALL SCORE:    91.7 / 100
+        ├─ Density contrast:  24.4
+        ├─ Crystal quality:   5.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  13.5
+        └─ Novelty:           2.5
+        Crystal system:  hexagonal
+        Space group:     P-6
+        Bandgap:         0.006 eV
+        Target sectors:  semiconductor, battery, superalloy, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Si: 2.33 g/cm³ | Ni: 8.91 g/cm³ | W: 19.25 g/cm³
+        WHY MICROGRAVITY: Density ratio 36.0x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 34  Li4ScGeP11Ir19
+        Material ID:     1dd149c75a
+        OVERALL SCORE:    91.5 / 100
+        ├─ Density contrast:  28.6
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Bandgap:         0.009 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Sc: 2.99 g/cm³ | Ge: 5.32 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 35  Li3Ta2NbIr6
+        Material ID:     992779b5a0
+        OVERALL SCORE:    91.5 / 100
+        ├─ Density contrast:  28.7
+        ├─ Crystal quality:   0.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  13.5
+        └─ Novelty:           2.0
+        Crystal system:  orthorhombic
+        Space group:     Pmmn
+        Bandgap:         0.003 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  # 36  Li6Ta5NbIr12
+        Material ID:     aea9a49e5b
+        OVERALL SCORE:    91.5 / 100
+        ├─ Density contrast:  28.7
+        ├─ Crystal quality:   0.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  13.5
+        └─ Novelty:           2.0
+        Crystal system:  orthorhombic
+        Space group:     Pmmm
+        Bandgap:         0.002 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  # 37  Li6TaNb5Ir12
+        Material ID:     b2d41de272
+        OVERALL SCORE:    91.5 / 100
+        ├─ Density contrast:  28.7
+        ├─ Crystal quality:   0.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  13.5
+        └─ Novelty:           2.0
+        Crystal system:  orthorhombic
+        Space group:     Pmmm
+        Bandgap:         0.006 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  # 38  Li2TaNbIr4
+        Material ID:     c9d128d155
+        OVERALL SCORE:    91.5 / 100
+        ├─ Density contrast:  28.7
+        ├─ Crystal quality:   0.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  13.5
+        └─ Novelty:           2.0
+        Crystal system:  orthorhombic
+        Space group:     Pmmm
+        Bandgap:         0.004 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  # 39  Li3Ta(NbIr3)2
+        Material ID:     f707d42a82
+        OVERALL SCORE:    91.5 / 100
+        ├─ Density contrast:  28.7
+        ├─ Crystal quality:   0.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  13.5
+        └─ Novelty:           2.0
+        Crystal system:  orthorhombic
+        Space group:     Pmmn
+        Bandgap:         0.002 eV
+        Target sectors:  quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Nb: 8.57 g/cm³ | Ta: 16.65 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; High melting point → benefits from containerless processing
+
+  # 40  Li2Dy5Ge4P8Ir17
+        Material ID:     c7b17da92d
+        OVERALL SCORE:    91.3 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Bandgap:         0.002 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ge: 5.32 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 41  Li3Dy5As8(PIr4)4
+        Material ID:     075737e830
+        OVERALL SCORE:    91.3 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | As: 5.73 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 42  Li2Dy5AsP11Ir17
+        Material ID:     e8364c5df0
+        OVERALL SCORE:    91.3 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Bandgap:         0.000 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | As: 5.73 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 43  LiDy5Ga5P7Ir18
+        Material ID:     0fca053c3c
+        OVERALL SCORE:    91.3 / 100
+        ├─ Density contrast:  28.5
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.5
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Bandgap:         0.002 eV
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ga: 5.91 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 44  LiTaNb2(CoSb)4
+        Material ID:     5fb363bfdf
+        OVERALL SCORE:    91.1 / 100
+        ├─ Density contrast:  20.8
+        ├─ Crystal quality:   6.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  18.0
+        └─ Novelty:           2.5
+        Crystal system:  tetragonal
+        Space group:     I-42m
+        Bandgap:         0.784 eV
+        Target sectors:  battery, quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Sb: 6.68 g/cm³ | Nb: 8.57 g/cm³ | Co: 8.90 g/cm³ | Ta: 16.65 g/cm³
+        WHY MICROGRAVITY: Density ratio 31.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 45  LiTa2Nb(CoSb)4
+        Material ID:     949a5e3305
+        OVERALL SCORE:    91.1 / 100
+        ├─ Density contrast:  20.8
+        ├─ Crystal quality:   6.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  18.0
+        └─ Novelty:           2.5
+        Crystal system:  tetragonal
+        Space group:     I-4
+        Bandgap:         0.882 eV
+        Target sectors:  battery, quantum, superalloy, defense, energy
+        Element densities: Li: 0.53 g/cm³ | Sb: 6.68 g/cm³ | Nb: 8.57 g/cm³ | Co: 8.90 g/cm³ | Ta: 16.65 g/cm³
+        WHY MICROGRAVITY: Density ratio 31.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 46  Li2Tb3Dy2Ga4P8Ir17
+        Material ID:     84855b015a
+        OVERALL SCORE:    91.0 / 100
+        ├─ Density contrast:  28.2
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           3.0
+        Crystal system:  monoclinic
+        Space group:     Pm
+        Target sectors:  semiconductor, battery, optical
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Ga: 5.91 g/cm³ | Tb: 8.23 g/cm³ | Dy: 8.55 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 47  Li8In3SiPt4
+        Material ID:     03101036b0
+        OVERALL SCORE:    91.0 / 100
+        ├─ Density contrast:  27.4
+        ├─ Crystal quality:   6.0
+        ├─ Containerless:     2.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.0
+        Crystal system:  cubic
+        Space group:     P-43m
+        Target sectors:  semiconductor, quantum, optical
+        Element densities: Li: 0.53 g/cm³ | Si: 2.33 g/cm³ | In: 7.31 g/cm³ | Pt: 21.45 g/cm³
+        WHY MICROGRAVITY: Density ratio 40.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required
+
+  # 48  LiZr3P2Ir3
+        Material ID:     14846dccb5
+        OVERALL SCORE:    90.8 / 100
+        ├─ Density contrast:  28.9
+        ├─ Crystal quality:   3.5
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.0
+        Crystal system:  hexagonal
+        Space group:     P-62m
+        Target sectors:  battery, optical, energy
+        Element densities: Li: 0.53 g/cm³ | P: 1.82 g/cm³ | Zr: 6.51 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+  # 49  Li8In3GePt4
+        Material ID:     eacbdb827e
+        OVERALL SCORE:    90.6 / 100
+        ├─ Density contrast:  27.2
+        ├─ Crystal quality:   6.0
+        ├─ Containerless:     2.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           2.0
+        Crystal system:  cubic
+        Space group:     P-43m
+        Bandgap:         0.005 eV
+        Target sectors:  semiconductor, quantum, optical
+        Element densities: Li: 0.53 g/cm³ | Ge: 5.32 g/cm³ | In: 7.31 g/cm³ | Pt: 21.45 g/cm³
+        WHY MICROGRAVITY: Density ratio 40.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required
+
+  # 50  LiDy16ZnIn2IrRh3
+        Material ID:     92a974c7b2
+        OVERALL SCORE:    90.6 / 100
+        ├─ Density contrast:  28.0
+        ├─ Crystal quality:   4.0
+        ├─ Containerless:     3.0
+        ├─ Commercial value:  9.0
+        └─ Novelty:           3.0
+        Crystal system:  triclinic
+        Space group:     P1
+        Target sectors:  semiconductor, optical, defense
+        Element densities: Li: 0.53 g/cm³ | Zn: 7.13 g/cm³ | In: 7.31 g/cm³ | Dy: 8.55 g/cm³ | Rh: 12.41 g/cm³ | Ir: 22.56 g/cm³
+        WHY MICROGRAVITY: Density ratio 42.2x → severe sedimentation on Earth; Semiconductor-grade crystal quality required; High melting point → benefits from containerless processing
+
+================================================================================
+  NEXT STEPS
+================================================================================
+  1. Run molecular dynamics simulations on top candidates
+     to model crystallization behavior without convection/sedimentation
+  2. Cross-reference with existing terrestrial synthesis attempts
+     (check Materials Project for failed synthesis notes)
+  3. Estimate $/kg value of each material in target application
+  4. Identify candidates where space-made version would be
+     ORDERS OF MAGNITUDE better, not just incrementally
+  5. Contact potential buyers (semiconductor fabs, defense)
+     to validate willingness to pay premium
+================================================================================

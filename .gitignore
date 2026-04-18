@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+bash.exe.stackdump
+.DS_Store
+
+# Ignore large datasets
+data/stable_materials_summary.csv
+
+# Ignore potentially large or redundant outputs if preferred, 
+# although generated CSVs like candidates can be tracked if they are small enough.
+# outputs/*.csv
