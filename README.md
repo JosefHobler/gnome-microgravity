@@ -17,7 +17,7 @@ Refines microgravity candidates into specific commercial strategies:
 *   **Semiconductor Model**: Isolates materials matching valuable bandgap requirements.
 
 ### 3. The Validation Engine (`scripts/dft_pipeline.py` & `scripts/validate_lead_compound.py`)
-Once a golden candidate is identified, this pipeline automatically generates the supercomputing code and inputs (Quantum ESPRESSO, VASP, BoltzTraP2) needed for Density Functional Theory (DFT) simulations. This mathematically verifies the material properties (like bandgap and thermoelectric factors) before running expensive physical lab experiments.
+Once a golden candidate is identified, this pipeline automatically generates the supercomputing code and inputs (Quantum ESPRESSO, VASP, BoltzTraP2) needed for Density Functional Theory (DFT) simulations. This computationally verifies the material properties (like bandgap and thermoelectric factors) before running expensive physical lab experiments.
 
 ## Installation & Setup
 
